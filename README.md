@@ -1,10 +1,10 @@
 ## my bevy artworks 2025
 
-### iroha_01
+### moving_cells_01
 
-![screenshot](https://funatsufumiya.github.io/iroha_01/screenshot.png)
+![screenshot](https://funatsufumiya.github.io/moving_cells_01/screenshot.png)
 
-[demo](https://funatsufumiya.github.io/iroha_01/) | [code](https://github.com/funatsufumiya/iroha_01)
+[demo](https://funatsufumiya.github.io/moving_cells_01/) | [code](https://github.com/funatsufumiya/moving_cells_01)
 
 ### stairs_01
 
@@ -12,11 +12,11 @@
 
 [demo](https://funatsufumiya.github.io/stairs_01/) | [code](https://github.com/funatsufumiya/stairs_01)
 
-### moving_cells_01
+### iroha_01
 
-![screenshot](https://funatsufumiya.github.io/moving_cells_01/screenshot.png)
+![screenshot](https://funatsufumiya.github.io/iroha_01/screenshot.png)
 
-[demo](https://funatsufumiya.github.io/moving_cells_01/) | [code](https://github.com/funatsufumiya/moving_cells_01)
+[demo](https://funatsufumiya.github.io/iroha_01/) | [code](https://github.com/funatsufumiya/iroha_01)
 
 ### License
 
