@@ -16,7 +16,7 @@
 
 Please check each project's LICENSE file.
 
-This page and almost all artworks are licensed under CC-BY-SA 4.0.
+This page and almost all artworks are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ( Exception: The reason I am publishing the code here on GitHub is to make it easier to read the code of the artwork and to help other creators. It's welcome to cite or copy some (or more) lines of code as you like, when you create another artwork or article from my code, without any worry about license. But this exception cannot be applied for cloning or fork. )
 
